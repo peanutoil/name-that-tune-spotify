@@ -1,28 +1,28 @@
 {
-  "name": "name-that-tune-spotify",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "gh-pages": "^5.0.0",
-    "nth-check": "^2.1.1",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-scripts": "^5.0.1",
-    "react-sound": "^1.2.0"
-  },
-  "homepage": "https://anaisberg.github.io/name-that-tune-spotify",
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+    "name": "name-that-tune-spotify",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "gh-pages": "^5.0.0",
+        "nth-check": "^2.1.1",
+        "react": "^16.12.0",
+        "react-dom": "^16.12.0",
+        "react-scripts": "^5.0.1",
+        "react-sound": "^1.2.0"
+    },
+    "homepage": "https://peanutoil.github.io/name-that-tune-spotify",
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
+    },
+    "browserslist": [
+        ">0.2%",
+        "not dead",
+        "not ie <= 11",
+        "not op_mini all"
+    ]
 }
